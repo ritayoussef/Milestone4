@@ -8,10 +8,12 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Polly;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+
 
 namespace ECommerce.Api.Search
 {
@@ -29,10 +31,11 @@ namespace ECommerce.Api.Search
         {
             services.AddScoped<ISearchService, SearchService>();
             services.AddScoped<IOrderService, OrderService>();  
+            services.AddScoped<IProductsService, ProductsService>();
             services.AddHttpClient("OrdersService", config =>
             {
-                config.BaseAddress = new Uri(Configuration["Section:Orders"]);
-            });
+                config.BaseAddress = new Uri(Configuration["Services:Orders"]);
+            }).AddTransientHttpErrorPolicy(p=> p.WaitAndRetryAsync(5, _ => TimeSpan.FromMilliseconds(500)));
             services.AddHttpClient("ProductsService", config => { config.BaseAddress = new Uri(Configuration["Services:Products"]); });
             services.AddControllers();
         }

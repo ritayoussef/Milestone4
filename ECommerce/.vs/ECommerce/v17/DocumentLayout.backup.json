@@ -11,132 +11,144 @@
       "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\controllers\\searchcontrollerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\controllers\\searchcontrollerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\controllers\\searchcontrollerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\controllers\\searchcontrollerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\models\\searchterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\models\\searchterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\interfaces\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\interfaces\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\interfaces\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\interfaces\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\models\\searchterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\models\\searchterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.products\\providers\\productsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\providers\\productsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.products\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\providers\\ordersprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\providers\\ordersprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\db\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\db\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\db\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\db\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\db\\ordersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\db\\ordersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\interfaces\\iordersprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\interfaces\\iordersprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\interfaces\\icustomersprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\interfaces\\icustomersprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\db\\customersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\db\\customersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\db\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\db\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.products\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\profiles\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\profiles\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\db\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\db\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\db\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\db\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.orders\\db\\ordersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CB2763-2B77-4219-8820-95A092C3213D}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\db\\ordersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\providers\\customersprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\providers\\customersprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\profiles\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\profiles\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.products\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\interfaces\\icustomersprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\interfaces\\icustomersprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\db\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\db\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\db\\customersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\db\\customersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.customers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC6BA11-1EB6-4B74-8CC8-5AF49D80DC1E}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.products\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.products\\providers\\productsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\providers\\productsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.products\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC5B44B5-3101-47F6-AE5F-F897A6C0BB63}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.products\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -166,35 +178,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\SearchService.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\SearchService.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Services\\SearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:32:27.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISearchService.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:24:17.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchTerm.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\SearchTerm.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\SearchTerm.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\SearchTerm.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Models\\SearchTerm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:23:00.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsProvider.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
+              "RelativeToolTip": "ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:27:15.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\ProductsService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\ProductsService.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\ProductsService.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Services\\ProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:22:55.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\OrderService.cs",
               "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\OrderService.cs",
               "RelativeToolTip": "ECommerce.Api.Search\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwCYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:32:43.683Z"
+              "WhenOpened": "2024-12-01T03:32:43.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "ECommerce.Api.Search\\Interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:30:12.411Z"
+              "WhenOpened": "2024-12-01T04:20:02.835Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\OrderItem.cs",
@@ -202,7 +281,8 @@
               "RelativeToolTip": "ECommerce.Api.Search\\Models\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:28:12.749Z"
+              "WhenOpened": "2024-12-01T03:28:12.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -214,31 +294,34 @@
               "RelativeToolTip": "ECommerce.Api.Search\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:27:58.701Z"
+              "WhenOpened": "2024-12-01T03:27:58.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Program.cs",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Program.cs",
-              "RelativeToolTip": "ECommerce.Api.Search\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T02:54:57.801Z"
+              "WhenOpened": "2024-12-01T04:20:46.1Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ECommerce.Api.Search\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-01T02:56:59.12Z"
+              "DocumentIndex": 3,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:30:12.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -248,26 +331,14 @@
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Startup.cs",
               "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Startup.cs",
               "RelativeToolTip": "ECommerce.Api.Search\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T02:37:16.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SearchService.cs",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\SearchService.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\SearchService.cs",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\SearchService.cs",
-              "RelativeToolTip": "ECommerce.Api.Search\\Services\\SearchService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T02:32:27.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "SearchControllerClass.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Controllers\\SearchControllerClass.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Controllers\\SearchControllerClass.cs",
@@ -275,91 +346,8 @@
               "RelativeToolTip": "ECommerce.Api.Search\\Controllers\\SearchControllerClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T02:25:44.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ISearchService.cs",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
-              "RelativeToolTip": "ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T02:24:17.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SearchTerm.cs",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\SearchTerm.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\SearchTerm.cs",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\SearchTerm.cs",
-              "RelativeToolTip": "ECommerce.Api.Search\\Models\\SearchTerm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T02:23:00.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ECommerce.Api.Orders\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-01T02:04:33.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrdersProvider.cs",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Providers\\OrdersProvider.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Providers\\OrdersProvider.cs",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Providers\\OrdersProvider.cs",
-              "RelativeToolTip": "ECommerce.Api.Orders\\Providers\\OrdersProvider.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowB8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:51:09.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IOrdersProvider.cs",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
-              "RelativeToolTip": "ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:48:33.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Models\\Order.cs",
-              "RelativeToolTip": "ECommerce.Api.Orders\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:43:14.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Models\\OrderItem.cs",
-              "RelativeToolTip": "ECommerce.Api.Orders\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:46:15.755Z"
+              "WhenOpened": "2024-12-01T02:25:44.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -371,11 +359,103 @@
               "RelativeToolTip": "ECommerce.Api.Search\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-01T02:41:08.302Z"
+              "WhenOpened": "2024-12-01T02:41:08.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdersProvider.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Providers\\OrdersProvider.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Providers\\OrdersProvider.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Providers\\OrdersProvider.cs",
+              "RelativeToolTip": "ECommerce.Api.Orders\\Providers\\OrdersProvider.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:51:09.318Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ECommerce.Api.Orders\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T02:04:33.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ECommerce.Api.Search\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T02:56:59.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Program.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Program.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:54:57.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOrdersProvider.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
+              "RelativeToolTip": "ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:48:33.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Models\\Order.cs",
+              "RelativeToolTip": "ECommerce.Api.Orders\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:43:14.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ECommerce.Api.Orders\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:46:15.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Properties\\launchSettings.json",
@@ -383,11 +463,12 @@
               "RelativeToolTip": "ECommerce.Api.Customers\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-01T01:20:21.773Z"
+              "WhenOpened": "2024-12-01T01:20:21.773Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Properties\\launchSettings.json",
@@ -395,11 +476,12 @@
               "RelativeToolTip": "ECommerce.Api.Products\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-30T23:58:35.378Z"
+              "WhenOpened": "2024-11-30T23:58:35.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "OrderProfile.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Profiles\\OrderProfile.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Profiles\\OrderProfile.cs",
@@ -407,11 +489,12 @@
               "RelativeToolTip": "ECommerce.Api.Orders\\Profiles\\OrderProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:56:33.386Z"
+              "WhenOpened": "2024-12-01T01:56:33.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Db\\OrderItem.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Db\\OrderItem.cs",
@@ -419,11 +502,12 @@
               "RelativeToolTip": "ECommerce.Api.Orders\\Db\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:35:31.605Z"
+              "WhenOpened": "2024-12-01T01:35:31.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Db\\Order.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Db\\Order.cs",
@@ -431,11 +515,12 @@
               "RelativeToolTip": "ECommerce.Api.Orders\\Db\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:32:15.893Z"
+              "WhenOpened": "2024-12-01T01:32:15.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "OrdersDbContext.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Db\\OrdersDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Db\\OrdersDbContext.cs",
@@ -443,11 +528,12 @@
               "RelativeToolTip": "ECommerce.Api.Orders\\Db\\OrdersDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:31:38.271Z"
+              "WhenOpened": "2024-12-01T01:31:38.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "CustomersProvider.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Providers\\CustomersProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Providers\\CustomersProvider.cs",
@@ -455,11 +541,12 @@
               "RelativeToolTip": "ECommerce.Api.Customers\\Providers\\CustomersProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T00:34:33.878Z"
+              "WhenOpened": "2024-12-01T00:34:33.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Controllers\\CustomersController.cs",
@@ -467,11 +554,12 @@
               "RelativeToolTip": "ECommerce.Api.Customers\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T00:54:17.171Z"
+              "WhenOpened": "2024-12-01T00:54:17.171Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "CustomerProfile.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Profiles\\CustomerProfile.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Profiles\\CustomerProfile.cs",
@@ -479,7 +567,8 @@
               "RelativeToolTip": "ECommerce.Api.Customers\\Profiles\\CustomerProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T00:52:03.345Z"
+              "WhenOpened": "2024-12-01T00:52:03.345Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -491,11 +580,12 @@
               "RelativeToolTip": "ECommerce.Api.Customers\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T00:28:05.155Z"
+              "WhenOpened": "2024-12-01T00:28:05.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "ICustomersProvider.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Interfaces\\ICustomersProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Interfaces\\ICustomersProvider.cs",
@@ -503,11 +593,12 @@
               "RelativeToolTip": "ECommerce.Api.Customers\\Interfaces\\ICustomersProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T00:26:05.916Z"
+              "WhenOpened": "2024-12-01T00:26:05.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Db\\Customer.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Db\\Customer.cs",
@@ -515,11 +606,12 @@
               "RelativeToolTip": "ECommerce.Api.Customers\\Db\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T00:22:48.342Z"
+              "WhenOpened": "2024-12-01T00:22:48.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "CustomersDbContext.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Db\\CustomersDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Db\\CustomersDbContext.cs",
@@ -527,11 +619,12 @@
               "RelativeToolTip": "ECommerce.Api.Customers\\Db\\CustomersDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T00:19:33.038Z"
+              "WhenOpened": "2024-12-01T00:19:33.038Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Startup.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Startup.cs",
@@ -539,11 +632,12 @@
               "RelativeToolTip": "ECommerce.Api.Customers\\Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:02:36.084Z"
+              "WhenOpened": "2024-12-01T01:02:36.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Controllers\\ProductsController.cs",
@@ -551,11 +645,12 @@
               "RelativeToolTip": "ECommerce.Api.Products\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T23:52:46.706Z"
+              "WhenOpened": "2024-11-30T23:52:46.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Startup.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Startup.cs",
@@ -563,11 +658,12 @@
               "RelativeToolTip": "ECommerce.Api.Products\\Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:50:59.217Z"
+              "WhenOpened": "2024-11-30T22:50:59.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "ProductProfile.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Profiles\\ProductProfile.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Profiles\\ProductProfile.cs",
@@ -575,23 +671,12 @@
               "RelativeToolTip": "ECommerce.Api.Products\\Profiles\\ProductProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T23:39:49.933Z"
+              "WhenOpened": "2024-11-30T23:39:49.933Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ProductsProvider.cs",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
-              "RelativeToolTip": "ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T23:27:15.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "IProductsProvider.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Interfaces\\IProductsProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Interfaces\\IProductsProvider.cs",
@@ -599,11 +684,12 @@
               "RelativeToolTip": "ECommerce.Api.Products\\Interfaces\\IProductsProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T23:22:50.083Z"
+              "WhenOpened": "2024-11-30T23:22:50.083Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Models\\Product.cs",
@@ -611,11 +697,12 @@
               "RelativeToolTip": "ECommerce.Api.Products\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T23:21:28.187Z"
+              "WhenOpened": "2024-11-30T23:21:28.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Db\\Product.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Db\\Product.cs",
@@ -623,11 +710,12 @@
               "RelativeToolTip": "ECommerce.Api.Products\\Db\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:47:38.503Z"
+              "WhenOpened": "2024-11-30T22:47:38.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "ProductsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Db\\ProductsDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Db\\ProductsDbContext.cs",
@@ -635,7 +723,8 @@
               "RelativeToolTip": "ECommerce.Api.Products\\Db\\ProductsDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:46:31.145Z"
+              "WhenOpened": "2024-11-30T22:46:31.145Z",
+              "EditorCaption": ""
             }
           ]
         }
