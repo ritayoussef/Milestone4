@@ -46,7 +46,7 @@ namespace ECommerce.Api.Customers.Providers
             var customers = await dbContext.Customers.ToListAsync();
             if (customers != null && customers.Any())
             {
-                    logger?.LogInformation($"{customers.Count} customer(s) found");
+                logger?.LogInformation($"{customers.Count} customer(s) found");
                 var result = mapper.Map<IEnumerable<Db.Customer>, IEnumerable<Models.Customer>>(customers);
                 return (true, result, null);
             }
@@ -63,14 +63,14 @@ namespace ECommerce.Api.Customers.Providers
     {
         try
         {
-                logger?.LogInformation("Querying customers");
-                var customer = await dbContext.Customers.FirstOrDefaultAsync(c => c.Id == id);
-                if (customer != null)
-            {
-                    logger?.LogInformation("Customer found");
-                    var result = mapper.Map<Db.Customer, Models.Customer>(customer);
-                return (true, result, null);
-            }
+           logger?.LogInformation("Querying customers");
+           var customer = await dbContext.Customers.FirstOrDefaultAsync(c => c.Id == id);
+           if (customer != null)
+           {
+               logger?.LogInformation("Customer found");
+               var result = mapper.Map<Db.Customer, Models.Customer>(customer);
+               return (true, result, null);
+           }
             return (false, null, "Not found");
         }
         catch (Exception ex)
