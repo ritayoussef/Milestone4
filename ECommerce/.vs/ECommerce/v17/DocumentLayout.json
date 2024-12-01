@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\services\\customersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\services\\customersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\interfaces\\icustomersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\interfaces\\icustomersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\15146\\source\\repos\\milestone4\\ecommerce\\ecommerce.api.search\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CD490FD-EE25-49AA-8E6A-317E7F8399AB}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -178,23 +186,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SearchService.cs",
-              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\SearchService.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\SearchService.cs",
-              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\SearchService.cs",
-              "RelativeToolTip": "ECommerce.Api.Search\\Services\\SearchService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
+              "Title": "CustomersService.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\CustomersService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\CustomersService.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\CustomersService.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Services\\CustomersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T02:32:27.181Z"
+              "WhenOpened": "2024-12-01T05:23:04.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "ICustomersService.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\ICustomersService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\ICustomersService.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\ICustomersService.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Interfaces\\ICustomersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:20:27.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ISearchService.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
@@ -206,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "SearchTerm.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\SearchTerm.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\SearchTerm.cs",
@@ -218,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ProductsProvider.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
@@ -230,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ProductsService.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\ProductsService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\ProductsService.cs",
@@ -242,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\OrderService.cs",
@@ -254,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\Product.cs",
@@ -266,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\OrderItem.cs",
@@ -278,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\Order.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\Order.cs",
@@ -290,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IProductsService.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
@@ -302,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IOrderService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\IOrderService.cs",
@@ -320,14 +342,26 @@
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Startup.cs",
               "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Startup.cs",
               "RelativeToolTip": "ECommerce.Api.Search\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T02:37:16.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\SearchService.cs",
+              "ToolTip": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\SearchService.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Services\\SearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:32:27.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SearchControllerClass.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Controllers\\SearchControllerClass.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Controllers\\SearchControllerClass.cs",
@@ -339,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\appsettings.json",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\appsettings.json",
@@ -351,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "OrdersProvider.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Providers\\OrdersProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Providers\\OrdersProvider.cs",
@@ -363,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Properties\\launchSettings.json",
@@ -375,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Properties\\launchSettings.json",
@@ -387,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Search\\Program.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Program.cs",
@@ -399,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "IOrdersProvider.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
@@ -411,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Models\\Order.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Models\\Order.cs",
@@ -423,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Models\\OrderItem.cs",
@@ -435,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Properties\\launchSettings.json",
@@ -447,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Properties\\launchSettings.json",
@@ -459,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "OrderProfile.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Profiles\\OrderProfile.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Profiles\\OrderProfile.cs",
@@ -471,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Db\\OrderItem.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Db\\OrderItem.cs",
@@ -483,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Db\\Order.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Db\\Order.cs",
@@ -495,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "OrdersDbContext.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Orders\\Db\\OrdersDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Db\\OrdersDbContext.cs",
@@ -507,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "CustomersProvider.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Providers\\CustomersProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Providers\\CustomersProvider.cs",
@@ -519,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Controllers\\CustomersController.cs",
@@ -531,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "CustomerProfile.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Profiles\\CustomerProfile.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Profiles\\CustomerProfile.cs",
@@ -543,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Models\\Customer.cs",
@@ -555,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "ICustomersProvider.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Interfaces\\ICustomersProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Interfaces\\ICustomersProvider.cs",
@@ -567,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Db\\Customer.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Db\\Customer.cs",
@@ -579,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "CustomersDbContext.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Db\\CustomersDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Db\\CustomersDbContext.cs",
@@ -591,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Customers\\Startup.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Startup.cs",
@@ -603,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Controllers\\ProductsController.cs",
@@ -615,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Startup.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Startup.cs",
@@ -627,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ProductProfile.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Profiles\\ProductProfile.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Profiles\\ProductProfile.cs",
@@ -639,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "IProductsProvider.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Interfaces\\IProductsProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Interfaces\\IProductsProvider.cs",
@@ -651,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Models\\Product.cs",
@@ -663,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Db\\Product.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Db\\Product.cs",
@@ -675,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "ProductsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\15146\\source\\repos\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Db\\ProductsDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Db\\ProductsDbContext.cs",
