@@ -7,6 +7,7 @@ using System;
 using ECommerce.Api.Customers.Interfaces;
 using ECommerce.Api.Customers.Db;
 using System.Linq;
+using ECommerce.Api.Customers.Models;
 
 namespace ECommerce.Api.Customers.Providers
 {
@@ -41,9 +42,11 @@ namespace ECommerce.Api.Customers.Providers
     {
         try
         {
+             logger?.LogInformation("Querying customers");
             var customers = await dbContext.Customers.ToListAsync();
             if (customers != null && customers.Any())
             {
+                    logger?.LogInformation($"{customers.Count} customer(s) found");
                 var result = mapper.Map<IEnumerable<Db.Customer>, IEnumerable<Models.Customer>>(customers);
                 return (true, result, null);
             }
@@ -60,11 +63,12 @@ namespace ECommerce.Api.Customers.Providers
     {
         try
         {
-            var customer = await dbContext.Customers.FirstOrDefaultAsync(p => p.Id == id);
-
-            if (customer != null)
+                logger?.LogInformation("Querying customers");
+                var customer = await dbContext.Customers.FirstOrDefaultAsync(c => c.Id == id);
+                if (customer != null)
             {
-                var result = mapper.Map<Db.Customer, Models.Customer>(customer);
+                    logger?.LogInformation("Customer found");
+                    var result = mapper.Map<Db.Customer, Models.Customer>(customer);
                 return (true, result, null);
             }
             return (false, null, "Not found");
